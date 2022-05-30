@@ -1,5 +1,5 @@
 {
-  "name": "jbs-logs-ordem-servico-ms",
+  "name": "node-ts-api-template",
   "version": "1.0.0",
   "license": "ISC",
   "main": "lib/server",
